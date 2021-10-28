@@ -1,0 +1,135 @@
+@charset "UTF-8";
+
+body {
+    color: #6C6C6F;
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 1.75;
+}
+
+h2 {
+    line-height: 1;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: bottom;
+}
+
+
+.l-header {
+    display: flex;
+}
+
+li {
+    font-size: 12px;
+    padding-right: 10px;
+}
+
+.l-flex {
+    display: flex;
+    flex-wrap: wrap;
+
+    list-style: none;
+}
+
+.l-trident {
+    background-color: #EBEDED;
+}
+
+
+/* header */
+
+
+/* footer */
+.l-footer {
+    margin-top: ;
+
+    background-color: #A6ADB4;
+    text-align: right;
+}
+
+footer p {
+
+    padding-top: 100px;
+    padding-bottom: 60px;
+}
+
+/* レイアウト */
+
+.l-section {
+    padding: 60px 0;
+}
+
+.l-col6 {
+    width: 47.5%;
+}
+
+.l-col3 {
+    width: 30%;
+}
+
+.l-inner {
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* <!-- ニュース --> */
+.outline-notes {
+    color: #FA6980;
+}
+
+.news-categor {}
+
+.news-title {}
+
+/* <!-- カード --> */
+.l-cad1 {
+    display: flex;
+
+}
+
+.l-trident {
+    padding-bottom: 100px;
+}
+
+
+.l-card {
+    justify-content: space-between;
+
+
+}
+
+/* <!-- ボタン --> */
+
+.l-card a {
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: #FA6980;
+    padding: 10px 0 20px;
+
+}
+
+.l-cad2 {
+    padding-right: 10;
+    padding: 10px;
+    background-color: #fff;
+
+}
+
+.l-cad3 {
+    background-color: #fff;
+
+}
+
+/* de-ta */
+
+/* footer */
+footer p {
+    background-color: #A6ADB4;
+    padding-top: 100px;
+    padding-bottom: 60px;
+}
